@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignatureExample</string>
+    <string name="clear_pad">clear</string>
+    <string name="agreement">arguments</string>
+</resources>
